@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666708009318,
+  "timestamp": 1666792331521,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b24bd05c7eede52f.js",
+        "/main.d10390d3adb81782.js",
         "/manifest.webmanifest",
         "/polyfills.308e071ab67d56a6.js",
         "/runtime.1d2ae766a15c6173.js",
@@ -30,6 +30,12 @@
       },
       "urls": [
         "/assets/ampico-preview.mp4",
+        "/assets/android-icons/android-icon-144x144.png",
+        "/assets/android-icons/android-icon-192x192.png",
+        "/assets/android-icons/android-icon-36x36.png",
+        "/assets/android-icons/android-icon-48x48.png",
+        "/assets/android-icons/android-icon-72x72.png",
+        "/assets/android-icons/android-icon-96x96.png",
         "/assets/icons/icon-128.png",
         "/assets/icons/icon-144.png",
         "/assets/icons/icon-152.png",
@@ -38,7 +44,8 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512.png",
         "/assets/icons/icon-72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/logo.png"
       ],
       "patterns": []
     }
@@ -46,6 +53,12 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/ampico-preview.mp4": "910ee727116a18bb55cc94191fc2832e0c601726",
+    "/assets/android-icons/android-icon-144x144.png": "da5d0ef3da853ff5ecb5e67767133626a2cbb2de",
+    "/assets/android-icons/android-icon-192x192.png": "847ead2a9c5a83d9d3e4595e92568c8ed9a0ac7e",
+    "/assets/android-icons/android-icon-36x36.png": "c71f2bd0df04bcee95c726bf8ffb98cbad6d579a",
+    "/assets/android-icons/android-icon-48x48.png": "9b59b88d2acdc3bbeba162dd02dd09943b627cc2",
+    "/assets/android-icons/android-icon-72x72.png": "0de83094e13b760c525b1f50289c0fc3554d824f",
+    "/assets/android-icons/android-icon-96x96.png": "3b40d27fb576a626dec66ddddcf10b4beaaf98b5",
     "/assets/icons/icon-128.png": "c974882c12d883a1cecd5bc4da58057c853b6d06",
     "/assets/icons/icon-144.png": "2da997c5d749161ad8ae49f2fb3d52bdc62626b4",
     "/assets/icons/icon-152.png": "446be7d8e60645c16126a89d66a8f82e43e4be67",
@@ -55,10 +68,11 @@
     "/assets/icons/icon-512.png": "e89acf37db9dcca646239dcfb6d24aa58168979d",
     "/assets/icons/icon-72.png": "c06813718f1f92a0b2e1b419b14bc4699cf0a657",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ca4eaef7555a15225ee37669ac255a2fb314619e",
-    "/main.b24bd05c7eede52f.js": "8098bf1560b79b1b665a49a2cb08fb29a2e86d44",
-    "/manifest.webmanifest": "ef3efb1e854ba255331f1942d3989b0752ec0b2f",
+    "/assets/logo.png": "d91bf240209071ad189207dac488aaaad166cbd7",
+    "/favicon.ico": "22a3de083ab53b206dccefdaa5caf837057eb26f",
+    "/index.html": "3a0e3b3fb1dd8a17b81187120c4f34cabc627b08",
+    "/main.d10390d3adb81782.js": "f6e16d2942b70b13cd49d1416084379219eaa93f",
+    "/manifest.webmanifest": "33afec6907881ddf9ab5c5a750da389cf407a56d",
     "/polyfills.308e071ab67d56a6.js": "77050e5038f0da4733f9c8dae484d6762796fb2c",
     "/runtime.1d2ae766a15c6173.js": "6c8870daff715e7628820de8854e91d351271987",
     "/styles.c6cbab98f89014b1.css": "ff53e875e967ef7b1fe72a84fd9c1781ed5e3863"
