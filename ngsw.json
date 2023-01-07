@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673117037272,
+  "timestamp": 1673118750938,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.f34c941514c521a5.js",
+        "/main.01322bbbccf18209.js",
         "/manifest.webmanifest",
         "/polyfills.308e071ab67d56a6.js",
         "/runtime.1d2ae766a15c6173.js",
@@ -108,8 +108,8 @@
     "/assets/logo-bl.png": "53560e565db6fac95f64efe1d11beebcae3637b4",
     "/assets/logo-yl.png": "53e6f1b8b5f106c9fc417ef2e967fc457c005325",
     "/favicon.ico": "96cb9a4aacfa7b4f6e91e6d9f38ecf8f77566106",
-    "/index.html": "8cd20a8cba3086e703a7e9e4249c86ced77dbddb",
-    "/main.f34c941514c521a5.js": "db403be40ff2f7cf37acb7c8d3c7846d52f0f372",
+    "/index.html": "67d0b86b470d06c21cb80ebc0891d45db96797e4",
+    "/main.01322bbbccf18209.js": "3e4ea2cb764b4101eba8da17154df4578985a14d",
     "/manifest.webmanifest": "cae3719f780e641707305da2eb63e3988f1f0d72",
     "/nunito-v25-latin-300.7461bcc6e3083bf9.ttf": "86603ed9625a83ec7805f4505219c46f839a593b",
     "/nunito-v25-latin-300.9908f580f74e0e4c.svg": "02133aaeacc036c10d5aba07303865ec5dcd8131",
