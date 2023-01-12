@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673119701599,
+  "timestamp": 1673518709278,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ae2ad6932b7f0064.js",
+        "/main.53898a73c692e014.js",
         "/manifest.webmanifest",
         "/polyfills.308e071ab67d56a6.js",
         "/runtime.1d2ae766a15c6173.js",
@@ -58,7 +58,9 @@
         "/assets/icons/icon-sm-36.png",
         "/assets/icons/icon-sm-48.png",
         "/assets/logo-bl.png",
+        "/assets/logo-bordered.svg",
         "/assets/logo-yl.png",
+        "/assets/logo.svg",
         "/nunito-v25-latin-300.7461bcc6e3083bf9.ttf",
         "/nunito-v25-latin-300.9908f580f74e0e4c.svg",
         "/nunito-v25-latin-300.e71d2e25f9ac4ad8.woff",
@@ -106,10 +108,12 @@
     "/assets/icons/icon-sm-36.png": "73a4b6fbfec91f13511ae4aa3d80b6adbfc83cd4",
     "/assets/icons/icon-sm-48.png": "e7bf916cc340066703a8588f33b63106f7fe149e",
     "/assets/logo-bl.png": "53560e565db6fac95f64efe1d11beebcae3637b4",
+    "/assets/logo-bordered.svg": "d6ec50f037fe69155c65c8821d2601e7f00a44fd",
     "/assets/logo-yl.png": "53e6f1b8b5f106c9fc417ef2e967fc457c005325",
+    "/assets/logo.svg": "e8fef405c4740bafc280f3fb53cae1fbfad666d9",
     "/favicon.ico": "96cb9a4aacfa7b4f6e91e6d9f38ecf8f77566106",
-    "/index.html": "27dabdb99c6733011e51c690873a7b722bef729c",
-    "/main.ae2ad6932b7f0064.js": "b42e44f9c42c88cb74c38caf9b168dbafb43a330",
+    "/index.html": "500d643137553ad7e2e741e026a9664b549dc15a",
+    "/main.53898a73c692e014.js": "9710b50ac83551e7acff5b8814d50aef322af4fc",
     "/manifest.webmanifest": "cae3719f780e641707305da2eb63e3988f1f0d72",
     "/nunito-v25-latin-300.7461bcc6e3083bf9.ttf": "86603ed9625a83ec7805f4505219c46f839a593b",
     "/nunito-v25-latin-300.9908f580f74e0e4c.svg": "02133aaeacc036c10d5aba07303865ec5dcd8131",
